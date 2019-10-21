@@ -1,0 +1,15 @@
+{
+    "name": "sickdaflip/m2-theme-foundation",
+    "description": "Zurb Foundation frontend theme for Magento 2.3.X",
+    "license": "MIT",
+    "type": "magento2-theme",
+    "require": {
+        "magento/framework": "*",
+        "sickdaflip/m2-mod-catewithimgwidget": "master"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
