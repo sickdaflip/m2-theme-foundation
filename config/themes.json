@@ -1,7 +1,0 @@
-{
-  "foundation": {
-    "src": "vendor/sickdaflip/m2-theme-foundation",
-    "dest": "pub/static/frontend/sickdaflip/foundation",
-    "locale": ["de_DE"]
-  }
-}
