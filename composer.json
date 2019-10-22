@@ -5,7 +5,6 @@
     "type": "magento2-theme",
     "require": {
         "magento/framework": "*",
-        "sickdaflip/m2-mod-catewithimgwidget": "~1.0.0",
         "snowdog/frontools": "^1.6"
     },
     "autoload": {
